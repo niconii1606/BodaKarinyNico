@@ -7,7 +7,7 @@ body {
   display: flex; /* Activar flexbox */
   flex-direction: column; /* Divs apilados verticalmente */
   height: 100vh; /* Ocupa el 100% del alto de la pantalla */
-  background-image: url('../public/assets/Fondo\ web-wedding.jpeg.jpg');
+  background-image: url('../Fondo\ web-wedding.jpeg.jpg');
   background-size: cover;
 }
 
@@ -27,7 +27,7 @@ body {
   flex-direction: column;
   justify-content: center; /* Centra horizontalmente */
   align-items: center; /* Centra verticalmente */
-  background-image: url('../public/assets/Fondo\ web-wedding.jpeg.jpg');
+  background-image: url('../Fondo\ web-wedding.jpeg.jpg');
 }
 
 /* Estilo para el div de abajo */
