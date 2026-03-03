@@ -1,0 +1,16 @@
+{
+    "short_name": "Boda",
+    "name": "Estefi y Cristian",
+    "icons": [
+      {
+        "src": "/tarjeta-boda/anillos.ico",
+        "type": "image/x-icon",
+        "sizes": "48x48"
+      }
+    ],
+    "start_url": "/tarjeta-boda/",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff"
+  }
+  
