@@ -9,7 +9,7 @@ function Countdown() {
   });
 
   useEffect(() => {
-    const targetDate = new Date("2025-02-22T21:00:00"); // Cambia al día y hora exactos de la boda
+    const targetDate = new Date("2026-12-12T21:00:00"); // Cambia al día y hora exactos de la boda
 
     const updateCountdown = () => {
       const currentDate = new Date();
